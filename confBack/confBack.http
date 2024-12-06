@@ -1,0 +1,6 @@
+@confBack_HostAddress = http://localhost:5007
+
+GET {{confBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
